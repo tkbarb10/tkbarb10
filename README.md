@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Taylor Kirk
-
 **MS Applied Data Science @ University of San Diego**
 
 I'm a data science graduate student with hands-on experience across NLP, time series, computer vision, and generative AI. I care about building things that are usable and evaluated honestly — not just technically interesting. I tend to gravitate toward smaller teams, unstructured data problems, and the kind of infrastructure work that makes everyone else's job easier (shared data pipelines, documented functions, reproducible workflows).
@@ -48,23 +46,18 @@ Coursework: Applied Predictive Modeling · Time Series Analysis · Machine Learn
 
 **B.A. Sociology** — UCLA *(2013)*
 
----
-
 ## Certifications
 
 **Agentic AI Essentials** — Ready Tensor
-
-**RAG Expert** — Ready Tensor · [<img src="rag_expert_badge.png" width="70" alt="RAG Expert Badge"/>](https://app.readytensor.ai/publications/nlp-tutor-rag-assistant-fmuQRFYCeAg0)
+[<img src="rag_expert_badge.png" width="70" alt="RAG Expert Badge"/>](https://app.readytensor.ai/publications/nlp-tutor-rag-assistant-fmuQRFYCeAg0)  
 
 *Published artifact: [NLP Tutor RAG Assistant](https://app.readytensor.ai/publications/nlp-tutor-rag-assistant-fmuQRFYCeAg0)*
 
----
-
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylor%20Kirk-blue?style=flat&logo=linkedin)](www.linkedin.com/in/taylor-kirk-61879435)
-[![Email](https://img.shields.io/badge/Email-tkbarb12%40gmail.com-red?style=flat&logo=gmail)](mailto:tkbarb12@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-tkbarb10-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/tkbarb10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylor%20Kirk-blue?style=flat&logo=linkedin)](www.linkedin.com/in/taylor-kirk-61879435)  
+[![Email](https://img.shields.io/badge/Email-tkbarb12%40gmail.com-red?style=flat&logo=gmail)](mailto:tkbarb12@gmail.com)  
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-tkbarb10-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/tkbarb10)  
 
 ---
 
