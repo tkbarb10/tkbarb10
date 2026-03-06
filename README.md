@@ -48,7 +48,7 @@ Coursework: Applied Predictive Modeling · Time Series Analysis · Machine Learn
 
 ## Certifications
 
-**Agentic AI Essentials** — Ready Tensor
+**Agentic AI Essentials** — Ready Tensor  
 [<img src="rag_expert_badge.png" width="70" alt="RAG Expert Badge"/>](https://app.readytensor.ai/publications/nlp-tutor-rag-assistant-fmuQRFYCeAg0)  
 
 *Published artifact: [NLP Tutor RAG Assistant](https://app.readytensor.ai/publications/nlp-tutor-rag-assistant-fmuQRFYCeAg0)*
@@ -61,7 +61,7 @@ Coursework: Applied Predictive Modeling · Time Series Analysis · Machine Learn
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkbarb10&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tkbarb10&layout=compact&theme=tokyonight&hide_border=true))
 
 ---
 
